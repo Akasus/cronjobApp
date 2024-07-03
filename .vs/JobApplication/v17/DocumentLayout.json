@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|d:\\entwicklung\\.net c#\\subsystem\\jobapplication\\jobapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|solutionrelative:jobapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|d:\\entwicklung\\.net c#\\subsystem\\jobapplication\\jobapplication\\mqtt\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|solutionrelative:jobapplication\\mqtt\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|d:\\entwicklung\\.net c#\\subsystem\\jobapplication\\jobapplication\\mqtt\\mqttsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|solutionrelative:jobapplication\\mqtt\\mqttsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|d:\\entwicklung\\.net c#\\subsystem\\jobapplication\\jobapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|solutionrelative:jobapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|d:\\entwicklung\\.net c#\\subsystem\\jobapplication\\jobapplication\\jobs\\ischedulerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|solutionrelative:jobapplication\\jobs\\ischedulerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|d:\\entwicklung\\.net c#\\subsystem\\jobapplication\\jobapplication\\jobs\\epajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB45EDD-C950-42CC-9D4E-936EE7FE934F}|JobApplication\\JobApplication.csproj|solutionrelative:jobapplication\\jobs\\epajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MQTTSettings.cs",
+              "DocumentMoniker": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\MQTT\\MQTTSettings.cs",
+              "RelativeDocumentMoniker": "JobApplication\\MQTT\\MQTTSettings.cs",
+              "ToolTip": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\MQTT\\MQTTSettings.cs",
+              "RelativeToolTip": "JobApplication\\MQTT\\MQTTSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:35:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MQTTService.cs",
+              "DocumentMoniker": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\MQTT\\MQTTService.cs",
+              "RelativeDocumentMoniker": "JobApplication\\MQTT\\MQTTService.cs",
+              "ToolTip": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\MQTT\\MQTTService.cs",
+              "RelativeToolTip": "JobApplication\\MQTT\\MQTTService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:11:41.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EPAJob.cs",
+              "DocumentMoniker": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\Jobs\\EPAJob.cs",
+              "RelativeDocumentMoniker": "JobApplication\\Jobs\\EPAJob.cs",
+              "ToolTip": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\Jobs\\EPAJob.cs",
+              "RelativeToolTip": "JobApplication\\Jobs\\EPAJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:03:48.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISchedulerJob.cs",
+              "DocumentMoniker": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\Jobs\\ISchedulerJob.cs",
+              "RelativeDocumentMoniker": "JobApplication\\Jobs\\ISchedulerJob.cs",
+              "ToolTip": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\Jobs\\ISchedulerJob.cs",
+              "RelativeToolTip": "JobApplication\\Jobs\\ISchedulerJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:49:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "JobApplication\\appsettings.json",
+              "ToolTip": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\appsettings.json",
+              "RelativeToolTip": "JobApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T14:26:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\Program.cs",
+              "RelativeDocumentMoniker": "JobApplication\\Program.cs",
+              "ToolTip": "D:\\Entwicklung\\.Net C#\\Subsystem\\JobApplication\\JobApplication\\Program.cs",
+              "RelativeToolTip": "JobApplication\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:22:21.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
